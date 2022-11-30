@@ -2,13 +2,10 @@
 <html>
 <body>
 
-<title>Wellcome to my world</title>
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
+<h2>Wellcome to my world</h2>
+<h3>hello prabhakar</h3>
+<h4>welcome to</h4>
+<h5>my world</h5>
 <img src="C:\Users\admin\Pictures\prabhakar img.jpg" alt="prabhakar" width="500" height="600">
 
 </body>
